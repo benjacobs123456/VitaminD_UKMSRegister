@@ -2,9 +2,8 @@
 
 This readme contains code used to perform analysis for Kuri et al 2022, where we look at determinants of vitamin D status in people with MS within the UK MS Register.
 
-Code: Ben Jacobs, 17th Oct 2022
+Code: Ben Jacobs & Ashvin Kuri, 17th Oct 2022
 
-1. Prepare vitamin D genetic risk score
 
 ## Download vitamin D GWAS summary stats
 
